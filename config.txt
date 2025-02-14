@@ -1,0 +1,10 @@
+# Bitcoin Wallet Address Configuration
+# Please enter your BTC wallet address below:
+BTC_WALLET=bc1qmvplzwalslgmeavt525ah6waygkrk99gpc22hj
+
+# ViaBTC Mining Configuration
+# Please enter your mining username below:
+MINER_NAME=Achit999
+
+# Optional: Custom worker suffix (1-99, leave empty for random) 
+# WORKER_SUFFIX=01  

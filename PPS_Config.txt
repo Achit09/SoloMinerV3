@@ -1,0 +1,11 @@
+# ViaBTC Mining Configuration
+# Please enter your mining username below:
+MINER_NAME=Achit999
+
+# Optional: Custom worker suffix (1-99, leave empty for random)
+# WORKER_SUFFIX=01
+
+# Pool Configuration
+POOL_URL=btc.viabtc.io
+POOL_PORTS=3333,25,443
+POOL_PROTOCOL=stratum+tcp 
